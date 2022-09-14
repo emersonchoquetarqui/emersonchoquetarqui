@@ -1,10 +1,10 @@
 ### Hi there! 🤙
 
 - 🔭 I’m currently working on systems analyst jr
-- 🌱 I’m currently learning laravel
-- 👯 I’m looking to collaborate on php projects
-- 🤔 I’m looking for help with laravel
-- 📫 How to reach me: emerson@choquetarqui.com.br or https://www.linkedin.com/in/emersonchoquetarqui/
+- 🌱 I’m currently learning Laravel and Vue.JS
+- 👯 I’m looking to collaborate on Laravel and Vue.JS projects 
+- 🤔 I’m looking for help with laravel and Vue.JS
+- 📫 How to reach me: emerson@choquetarqui.com.br, emersonlchc@gmail.com or https://www.linkedin.com/in/emersonchoquetarqui/
 - ⚡ Fun fact: I'm an aviation lover
 
 <div align="center">
