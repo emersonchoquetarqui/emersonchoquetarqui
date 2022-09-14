@@ -1,6 +1,6 @@
 ### Hi there! 🤙
 
-- 🔭 I’m currently working on systems analyst jr
+- 🔭 I am currently working as a junior systems developer
 - 🌱 I’m currently learning Laravel and Vue.JS
 - 👯 I’m looking to collaborate on Laravel and Vue.JS projects 
 - 🤔 I’m looking for help with laravel and Vue.JS
