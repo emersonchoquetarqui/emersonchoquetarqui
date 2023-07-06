@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Laravel and Vue.JS
 - 👯 I’m looking to collaborate on Laravel and Vue.JS projects 
 - 🤔 I’m looking for help with laravel and Vue.JS
-- 📫 How to reach me: emerson@choquetarqui.com.br, emersonlchc@gmail.com or https://www.linkedin.com/in/emersonchoquetarqui/
+- 📫 How to reach me: emersonlchc@gmail.com or https://www.linkedin.com/in/emersonchoquetarqui/
 - ⚡ Fun fact: I'm an aviation lover
 
 <div align="center">
